@@ -5,5 +5,9 @@
       "server_name": "matrix.org"
     }
   },
-  "disable_custom_urls": true
+  "disable_custom_urls": true,
+  "disable_guests": false,
+  "brand": "Element",
+  "default_country_code": "US",
+  "show_labs_settings": true
 }
